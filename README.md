@@ -2,7 +2,7 @@
 
 ### 🚀 I am currently a second-year B.Tech candidate in Computer Science at Swami Keshvanand Institute of Technology (SKIT).
 
-I am a passionate and results-driven learner specializing in [Full-stack development, App development, and machine learning]. I thrive on building scalable, high-performance applications and solving complex technical challenges. My focus is on writing clean, efficient, and maintainable code.
+I am a passionate and results-driven learner specializing in **Full-stack development**, **App development**, and **Machine Learning**. I thrive on building scalable, high-performance applications and solving complex technical challenges. My focus is on writing clean, efficient, and maintainable code.
 
 ---
 
@@ -40,9 +40,9 @@ A summary of my professional and academic accomplishments:
 
 | Project Name | Technology Stack | Description |
 | :--- | :--- | :--- |
-| **Faculty Information Portal** | HTML, CSS, PHP, MySQL | This project provides a centralized, single-click solution for managing all faculty data required for NAAC accreditation compliance and documentation. . |
-| **ShortPharm App** | Kotlin, Room Database | A specialized inventory management application developed for medicine wholesalers, providing proactive, date-based reminders and notifications to ensure timely reordering of stock |
-| **SODECA Website** | Flask, BootStrap | The SODECA Exam Management System is a web-based platform that automates and centralizes the entire SODECA examination workflow for RTU-affiliated colleges, replacing manual processes with a secure, role-based solution. |
+| **[Faculty Information Portal](https://github.com/UTTKARSHCODER/Faculty_info_website)** | HTML, CSS, PHP, MySQL | This project provides a centralized, single-click solution for managing all faculty data required for NAAC accreditation compliance and documentation. . |
+| **[ShortPharm App](https://github.com/UTTKARSHCODER/ShortPharm-App)** | Kotlin, Room Database | A specialized inventory management application developed for medicine wholesalers, providing proactive, date-based reminders and notifications to ensure timely reordering of stock |
+| **[SODECA Website](https://github.com/UTTKARSHCODER/SODECA-website)** | Flask, BootStrap | The SODECA Exam Management System is a web-based platform that automates and centralizes the entire SODECA examination workflow for RTU-affiliated colleges, replacing manual processes with a secure, role-based solution. |
 
 *(Check out my repositories for more details!)*
 
